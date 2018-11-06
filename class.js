@@ -1,4 +1,4 @@
-// class constructor
+// class constructor（新添加）
 class Animal {
     constructor(name) { //构造函数
         this.name = name
